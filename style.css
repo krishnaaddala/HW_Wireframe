@@ -1,5 +1,10 @@
 body{
     background-color: darkgrey;
-    color: black
-    
+    color: black;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+    text-align : center;
+    font-size: 40px;
 }
+
+
+
