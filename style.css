@@ -1,3 +1,8 @@
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
 body{
     background-color: darkgrey;
     color: black;
@@ -5,6 +10,33 @@ body{
     text-align : center;
     font-size: 40px;
 }
-
-
+header{
+    background-color: whitesmoke;
+    width: 1200px;
+    height: 50px;
+    border: 1px white;
+    align-items: center;
+    display: inline-block;
+    padding: 20px;
+}
+nav {
+    background-color: whitesmoke;
+    width: 1200px;
+    height: 50px;
+    border: 1px white;
+    align-items: center;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 20px;
+}
+section {
+    background-color: whitesmoke;
+    width: 1100px;
+    height: 50px;
+    border: 1px white;
+    align-items: center;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 20px;
+}
 
