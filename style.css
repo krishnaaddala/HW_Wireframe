@@ -131,7 +131,7 @@ aside{
 
 footer{
     background-color: #ebebeb;
-    position: absolute;
+    position: fixed;
     padding: 12px;
     bottom: 210px;
     width: 960px;
