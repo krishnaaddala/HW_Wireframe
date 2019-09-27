@@ -2,16 +2,27 @@
 First assignment to build a basic wireframe using HTML/CSS
 
 ## Table of contents
-HTML
-CSS
+Technologies Used
+Applications Used
 Screenshot of my wireframe model
 Code Snippets
 
+## Technologies Used
+HTML
+CSS
+Markdown
+
+## Applications Used
+GitHub
+ChromeDev tools
+Visual Studio Code
+Chrome browser
+
 ## Screenshots of wireframe progress
 
-![Code progression Final](https://github.com/krishnaaddala/HW_Wireframe/blob/master/Images_CodingProgress/HW_Wireframe_progress1.png?raw=true"Code Porgress 1")
+![Code progression Final](https://github.com/krishnaaddala/HW_Wireframe/blob/master/Images_CodingProgress/HW_Wireframe_progress1.png?raw=true "Code Porgress 1")
 
-![Code progression Final](https://github.com/krishnaaddala/HW_Wireframe/blob/master/Images_CodingProgress/HW_Wireframe_progress2.png?raw=true"Code Porgress 2")
+![Code progression Final](https://github.com/krishnaaddala/HW_Wireframe/blob/master/Images_CodingProgress/HW_Wireframe_progress2.png?raw=true "Code Porgress 2")
 
 ![Code progression Final](https://github.com/krishnaaddala/HW_Wireframe/blob/master/Images_CodingProgress/HW_Wireframe_Final.png?raw=true "Code Porgress final")
 
@@ -76,15 +87,3 @@ Git commands:
     git commit -m "message"
     git push origin master
     ```
-
-## Technologies used
-HTML
-CSS
-Markdown
-
-## Applications used
-GitHub
-ChromeDev tools
-Visual Studio Code
-Chrome browser
-
